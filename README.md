@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9q5vcxvfll8iaejj?svg=true)](https://ci.appveyor.com/project/c0nekta/scema)
